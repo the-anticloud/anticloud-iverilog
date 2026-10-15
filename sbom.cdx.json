@@ -1,0 +1,46 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:945b4071-fa2f-5c7b-9661-d45296547ec3",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T07:46:39Z",
+  "component": {
+   "type": "application",
+   "name": "IVERILOG",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/IVERILOG@83b357604d34",
+   "purl": "pkg:generic/anticloud/IVERILOG@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "source": {
+  "git": {
+   "head": null,
+   "url": null,
+   "sha_unverified": true,
+   "note": "contamination removed; resolve via GitHub API before quoting"
+  }
+ }
+}
